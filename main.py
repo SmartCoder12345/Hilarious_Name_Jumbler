@@ -5,7 +5,6 @@ Author: #Smart_Coder
 
 import customtkinter as ctk
 import random
-import tkinter.filedialog, platform, ctypes, packaging, tkinter.font, ctypes.wintypes, tkinter.ttk
 
 # Set appearance mode to dark and default color theme to dark-blue
 ctk.set_appearance_mode("dark")
